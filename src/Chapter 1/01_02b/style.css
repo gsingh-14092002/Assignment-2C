@@ -3,8 +3,10 @@ body {
 }
 
 img {
+  display: block;
   height: auto;
   width: 20rem;
+
 }
 
 .image-box {
