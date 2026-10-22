@@ -25,4 +25,5 @@ img {
   /* filter: contrast(90%) grayscale(50%) saturate(150%); */
   /* filter: sepia(100%); */
   /* filter: contrast(90%) sepia(100%); */
+filter: contrast(90%) grayscale(50%) saturate(150%);
 }
