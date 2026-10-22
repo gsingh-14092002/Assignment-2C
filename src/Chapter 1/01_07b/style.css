@@ -14,8 +14,16 @@ img {
   margin: 2rem;
 }
 
-.content {}
+.content {
+  display: flex;
+}
 
-.content img {}
+.content img {
+  height: 100%;
+  object-fit: cover;
+}
 
-figure {}
+figure {
+  margin: 0;
+  width: 25%;
+}
