@@ -23,6 +23,9 @@ img {
   height: 60vh;
   justify-content: center;
   width: 75vw;
+   background-repeat: no-repeat;
+  background-position: 20% 50%;
+ 
 }
 
 .content h1 {
